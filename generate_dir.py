@@ -24,4 +24,5 @@ os.mkdir(new_dir)
 
 os.chdir(new_dir)
 open("example-input.txt","w").close()
+open("input.txt","w").close()
 open("solution.py","w").close()
